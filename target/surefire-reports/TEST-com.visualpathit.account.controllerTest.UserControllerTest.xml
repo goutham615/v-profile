@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="6" failures="0" name="com.visualpathit.account.controllerTest.UserControllerTest" time="7.228" errors="0" skipped="0">
+<testsuite tests="6" failures="0" name="com.visualpathit.account.controllerTest.UserControllerTest" time="5.459" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
-    <property name="java.vm.version" value="17.0.7+7-LTS"/>
+    <property name="java.vm.version" value="17.0.8+7-LTS"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-17-amazon-corretto.x86_64/lib"/>
-    <property name="maven.multiModuleProjectDirectory" value="/root/prj4-cicd-slack.4"/>
+    <property name="maven.multiModuleProjectDirectory" value="/root/v-profile"/>
     <property name="java.vm.vendor" value="Amazon.com Inc."/>
     <property name="java.vendor.url" value="https://aws.amazon.com/corretto/"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -12,9 +12,9 @@
     <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="/root/prj4-cicd-slack.4"/>
+    <property name="user.dir" value="/root/v-profile"/>
     <property name="java.vm.compressedOopsMode" value="32-bit"/>
-    <property name="java.runtime.version" value="17.0.7+7-LTS"/>
+    <property name="java.runtime.version" value="17.0.8+7-LTS"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.io.tmpdir" value="/tmp"/>
     <property name="line.separator" value="
@@ -29,7 +29,7 @@
     <property name="java.class.version" value="61.0"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
-    <property name="os.version" value="6.1.29-47.49.amzn2023.x86_64"/>
+    <property name="os.version" value="6.1.38-59.109.amzn2023.x86_64"/>
     <property name="library.jansi.path" value="/usr/share/maven/lib/jansi-native"/>
     <property name="user.home" value="/root"/>
     <property name="user.timezone" value="UTC"/>
@@ -44,23 +44,23 @@
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="java.vm.info" value="mixed mode, sharing"/>
-    <property name="java.version" value="17.0.7"/>
+    <property name="java.version" value="17.0.8"/>
     <property name="native.encoding" value="UTF-8"/>
     <property name="java.vendor" value="Amazon.com Inc."/>
     <property name="sun.stderr.encoding" value="UTF-8"/>
     <property name="maven.home" value="/usr/share/maven"/>
     <property name="file.separator" value="/"/>
-    <property name="java.version.date" value="2023-04-18"/>
+    <property name="java.version.date" value="2023-07-18"/>
     <property name="java.vendor.url.bug" value="https://github.com/corretto/corretto-17/issues/"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.endian" value="little"/>
-    <property name="java.vendor.version" value="Corretto-17.0.7.7.1"/>
+    <property name="java.vendor.version" value="Corretto-17.0.8.7.1"/>
     <property name="sun.stdout.encoding" value="UTF-8"/>
   </properties>
-  <testcase classname="com.visualpathit.account.controllerTest.UserControllerTest" name="registrationTestforHappyFlow" time="6.505"/>
-  <testcase classname="com.visualpathit.account.controllerTest.UserControllerTest" name="registrationTestforNullValueHappyFlow" time="0.073"/>
-  <testcase classname="com.visualpathit.account.controllerTest.UserControllerTest" name="loginTestHappyFlow" time="0.336"/>
-  <testcase classname="com.visualpathit.account.controllerTest.UserControllerTest" name="welcomeTestHappyFlow" time="0.118"/>
-  <testcase classname="com.visualpathit.account.controllerTest.UserControllerTest" name="welcomeAfterDirectLoginTestHappyFlow" time="0.094"/>
-  <testcase classname="com.visualpathit.account.controllerTest.UserControllerTest" name="indexTestHappyFlow" time="0.102"/>
+  <testcase classname="com.visualpathit.account.controllerTest.UserControllerTest" name="welcomeAfterDirectLoginTestHappyFlow" time="4.847"/>
+  <testcase classname="com.visualpathit.account.controllerTest.UserControllerTest" name="indexTestHappyFlow" time="0.106"/>
+  <testcase classname="com.visualpathit.account.controllerTest.UserControllerTest" name="registrationTestforNullValueHappyFlow" time="0.178"/>
+  <testcase classname="com.visualpathit.account.controllerTest.UserControllerTest" name="loginTestHappyFlow" time="0.184"/>
+  <testcase classname="com.visualpathit.account.controllerTest.UserControllerTest" name="registrationTestforHappyFlow" time="0.069"/>
+  <testcase classname="com.visualpathit.account.controllerTest.UserControllerTest" name="welcomeTestHappyFlow" time="0.075"/>
 </testsuite>

@@ -1,5 +1,5 @@
-/root/prj4-cicd-slack.4/src/test/java/com/visualpathit/account/setup/StandaloneMvcTestViewResolver.java
-/root/prj4-cicd-slack.4/src/test/java/com/visualpathit/account/modelTest/UserTest.java
-/root/prj4-cicd-slack.4/src/test/java/com/visualpathit/account/controllerTest/UserControllerTest.java
-/root/prj4-cicd-slack.4/src/test/java/com/visualpathit/account/modelTest/RoleTest.java
-/root/prj4-cicd-slack.4/src/test/java/com/visualpathit/account/controllerTest/SampleTest.java
+/root/v-profile/src/test/java/com/visualpathit/account/controllerTest/UserControllerTest.java
+/root/v-profile/src/test/java/com/visualpathit/account/modelTest/UserTest.java
+/root/v-profile/src/test/java/com/visualpathit/account/modelTest/RoleTest.java
+/root/v-profile/src/test/java/com/visualpathit/account/controllerTest/SampleTest.java
+/root/v-profile/src/test/java/com/visualpathit/account/setup/StandaloneMvcTestViewResolver.java
